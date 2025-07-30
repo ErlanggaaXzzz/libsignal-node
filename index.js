@@ -1,3 +1,6 @@
+
+console.log('\x1b[36m%s\x1b[0m', '\n🙏 Terima kasih telah menggunakan Baileys by Erlangga!\n📦 Follow github.com/ErlanggaaXzzz\n');
+
 'use strict';
 
 exports.crypto = require('./src/crypto');
